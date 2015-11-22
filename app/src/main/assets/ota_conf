@@ -32,7 +32,7 @@ device_name=ro.cyanpop.device
 # Version position: 3 (zero based)
 # Version format:
 #
-version_source=ro.cyanpop.version
+version_source=ro.ota.version
 version_delimiter=-
 version_position=3
 version_format=
