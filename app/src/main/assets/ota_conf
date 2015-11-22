@@ -18,9 +18,9 @@ device_name=ro.cyanpop.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.modversion' : Parse the date 20150426 from 'cyanpop_thea-mm_6.0-1.0-NIGHTLY-20150426'
+# Example with a property key 'ro.ota.version' : Parse the date 20150426 from 'cyanpop_thea-mm_6.0-1.0-NIGHTLY-20150426'
 #
-# Version source: ro.modversion
+# Version source: ro.ota.version
 # Version delimiter: -
 # Version position: 3 (zero based)
 # Version format: yyyyMMdd
@@ -34,5 +34,5 @@ device_name=ro.cyanpop.device
 #
 version_source=ro.ota.version
 version_delimiter=-
-version_position=3
+version_position=4
 version_format=
