@@ -18,8 +18,8 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">CyanPopOTA</string>
-    <string name="app_title">Updates</string>
+    <string name="app_name">System Updates</string>
+    <string name="app_title">System Updates</string>
 
     <!-- Categories -->
     <string name="ota_category">OTA</string>
@@ -28,7 +28,7 @@
     <!-- ROM info -->
     <string name="latest_version">Latest version: %1$s</string>
     <string name="unknown">Unknown</string>
-    <string name="system_uptodate">Your system is up to date</string>
+    <string name="system_uptodate">CyanPop is up to date</string>
 
     <!-- Check update -->
     <string name="check_update_title">Check update</string>
@@ -43,10 +43,10 @@
     <string name="autoupdate_disabled">Automatic update is disabled</string>
 
     <!-- Notification -->
-    <string name="notification_title">ROM Update</string>
-    <string name="notification_message">New update available!</string>
+    <string name="notification_title">ROM Updated!!</string>
+    <string name="notification_message">Flash now!</string>
 
     <!-- Dialog -->
-    <string name="dialog_message">Checking for ROM updates, please wait…</string>
+    <string name="dialog_message">Checking CyanPop updates, please wait…</string>
 
 </resources>
