@@ -18,8 +18,8 @@
 <resources>
 
     <!-- App -->
-    <string name="app_name">System Updates</string>
-    <string name="app_title">System Updates</string>
+    <string name="app_name">CyanpopOTA</string>
+    <string name="app_title">CyanpopOTA</string>
 
     <!-- Categories -->
     <string name="ota_category">OTA</string>

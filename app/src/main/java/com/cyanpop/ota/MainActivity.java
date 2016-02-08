@@ -14,16 +14,16 @@
  * limitations under the License.
  */
 
-package com.fusionjack.slimota;
+package com.cyanpop.ota;
 
 import android.app.Fragment;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.view.MenuItem;
 
-import com.fusionjack.slimota.configs.LinkConfig;
-import com.fusionjack.slimota.dialogs.WaitDialogFragment;
-import com.fusionjack.slimota.fragments.SlimOTAFragment;
+import com.cyanpop.ota.configs.LinkConfig;
+import com.cyanpop.ota.dialogs.WaitDialogFragment;
+import com.cyanpop.ota.fragments.SlimOTAFragment;
 
 public class MainActivity extends PreferenceActivity implements
         WaitDialogFragment.OTADialogListener, LinkConfig.LinkConfigListener {
